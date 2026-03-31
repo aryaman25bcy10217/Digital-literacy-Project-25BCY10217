@@ -26,5 +26,6 @@ The project focuses on developing essential digital skills, including creating d
 ## Author
 
 Aryaman Singh Chauhan
+
 Reg No: 25BCy10217
 
